@@ -1,0 +1,41 @@
+.row{
+    text-align: center;
+}
+.card{
+    display:inline-block;
+    width:100px;
+    height:100px;
+    background-color: whitesmoke;
+    cursor:pointer;
+}
+.card:hover{
+    box-shadow: inset 0px 0px 0px 3px black;
+    box-sizing: border-box;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.violet{
+    background-color: violet;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.indigo{
+    background-color: indigo;
+}
+.teal{
+    background-color: teal;
+}
+.colour-hidden{
+    background-color: whitesmoke;
+}
